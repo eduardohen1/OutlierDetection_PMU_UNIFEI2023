@@ -19,8 +19,8 @@ eventos =[
     ]
 
 pastas = [
-    r'D:\Users\Valerio\OneDrive - Universidade Federal de Itajubá\Repositorio\Eduardo - PMU COPEL\evento 1 - 08-04-2021',
-    r'D:\Users\Valerio\OneDrive - Universidade Federal de Itajubá\Repositorio\Eduardo - PMU COPEL\evento 2 - 28-05-2021',
+    r'D:\evento 1 - 08-04-2021',
+    r'D:\evento 2 - 28-05-2021',
     ]
 
 chunksize = 3600 
